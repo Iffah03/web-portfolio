@@ -1,0 +1,21 @@
+body {
+    scroll-behavior: smooth;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#home, #about, #portfolio, #contact {
+    background: url('bg\ porto.jpeg') no-repeat center center/cover;
+    color: #212121;
+    text-shadow: 2px 2px 4px rgba(197, 159, 159, 0.7);
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
